@@ -29,6 +29,6 @@ The only glaring flaws in the design were some noise picked up by the breadboard
 ![IMG_20200326_224745](https://user-images.githubusercontent.com/17792367/136842504-7c90284c-510c-463d-b222-2745d545e585.jpg)
 ![IMG_20200326_223100](https://user-images.githubusercontent.com/17792367/136842513-a636353c-6f1e-42d1-acf0-29f14fee5a8f.jpg)
 
-And Voilà, it's done! This was one of my favorite projects to work on as it combined two things I like a lot, digital logic and audio. It's helped teach me a lot as at the point I had made it, it was the most complex circuit I had ever designed or built. 
+And Voilà, it's done! This was one of my favorite projects to work on as it combined two things I like a lot, digital logic and audio. This project has taught me a lot, considering it was the most complex circuit I had ever designed and constructed at the time.
 
 Also to address the obvious question, yes, I know an Arduino and an SD card could have achieved the same thing in a much easier way, and had this been a commercial product I was working on instead I would have gone down that route. But this isn't a commercial product, and there is nothing that impressive or new about getting a microcontroller to playback audio, which is why I went down the path of doing everything discretely with TTL parts (not to mention how much more you actually learn doing it this way). 
