@@ -15,7 +15,7 @@ Playing back clips is triggered via a high pulse on the trigger pin. This sets a
 ![asdasdasd](https://user-images.githubusercontent.com/17792367/136730482-9491715f-46de-4d10-a8ca-2c18980ad210.jpg)
 
 ### Development
-Back in December of 2019, I had started work on designing a digital drum machine completely from scratch. For the machine, I needed a way to playback audio. Around this time, I had a bit of an obsession with digital audio so I had decided this drum machine project was the perfect excuse to learn about it more by designing and building my own hardware audio clip player from the ground up. 
+Back in December of 2019, I had started working on designing a digital drum machine completely from scratch. For the machine, I needed a way to playback audio. Around this time, I had a bit of an obsession with digital audio; I had decided this drum machine project was the perfect excuse to learn more by designing and building my own hardware audio clip player from the ground up. 
 
 After a little bit of thinking, I had come up with an idea for doing this using a few binary counters that fed addresses to an EEPROM memory chip. While my idea to do this was straightforward, a bunch of stuff got in the way from actually starting, but eventually, in February of 2020 I had started and soon had a prototype.  
 
